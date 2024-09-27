@@ -1,0 +1,2 @@
+Offer 1	Desc 1	05.10.2023	Paris	offer1.img0.jpg	"offer1.img1.jpg;offer1.img2.jpg;offer1.img3.jpg;offer1.img4.jpg;offer1.img5.jpg; offer1.img6.jpg"	true	true	5	apartment	2	3	50000	"Air conditioning"	user_id_1	0	"48.85661;2.351499"
+Offer 2	Desc 2	06.10.2023	Cologne	offer2.img0.jpg	"offer2.img1.jpg;offer2.img2.jpg;offer2.img3.jpg;offer2.img4.jpg;offer2.img5.jpg;offer2.img6.jpg"	false	false	1	apartment	1	1	66666,6	Air conditioning	user_id_2	0	"50.938361;6.959974"
