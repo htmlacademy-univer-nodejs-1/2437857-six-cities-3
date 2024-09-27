@@ -1,7 +1,7 @@
-import { City } from "./city.type.js";
-import { Coordinates } from "./coordinates.js";
-import { User } from "./user.type.js";
-import { HousingType } from "./housing.type.js";
+import { City } from './city.type.js';
+import { Coordinates } from './coordinates.js';
+import { User } from './user.type.js';
+import { HousingType } from './housing.type.js';
 
 export type Amenity = 'Breakfast' | 'Air conditioning' | 'Laptop friendly workspace' | 'Baby seat' | 'Washer' | 'Towels' | 'Fridge';
 

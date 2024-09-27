@@ -1,4 +1,4 @@
-import { Coordinates } from "./coordinates.js";
+import { Coordinates } from './coordinates.js';
 
 export type City = {
     name: 'Paris' | 'Cologne' | 'Brussels' | 'Amsterdam' | 'Hamburg' | 'Dusseldorf';
