@@ -7,7 +7,7 @@
     "api",
     "node.js"
   ],
-  "main": "main.js",
+  "main": "main.cli.ts",
   "scripts": {
     "start": "npm run build && node ./dist/main.js",
     "build": "npm run clean && npm run compile",
@@ -30,5 +30,8 @@
   "engines": {
     "node": "^18.0.0",
     "npm": ">=8"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0"
   }
 }
